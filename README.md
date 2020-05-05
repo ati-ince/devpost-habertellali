@@ -1,4 +1,4 @@
-# devpost-habertellali
+# public-habertellali
 
 ![alt text](habertellalimp4.gif)
 
